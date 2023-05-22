@@ -116,6 +116,23 @@ Exit {H:build mode} when you are ready."
 		
 When you are ready, open the {H:distribution window} to see how you can run your own digital distribution store."
     SHARED30                "You'll also need to pick a lead designer to come up with ideas for your project. The game will already have chosen the most suitable employee, based on the assigned design teams."
+    ACCOUNTINGANDTAXES1     "Start by opening the {H:Tax menu}."
+    ACCOUNTINGANDTAXES2     "Taxes have to be paid every year that you've made a profit, and every year you have the option to file a {H:tax report} before April or pay a fee. Any illegal assets or activity that has occured within that tax year will be discovered, if you don't file the tax report yourself.
+
+Note that for assets you can buy or sell, like a computer or an {H:IP}, the taxes are based off the {H:depreciation} of its value, rather than its actual value when you bought or sold it.
+
+Open the {H:Accounting window} to continue the tutorial."
+    ACCOUNTINGANDTAXES3     "In the accounting window you can select which teams should file your tax reports and {H:optimize} your taxes every year.
+
+Your accountants optimize your taxes by finding errors and ways to lower your taxes. If you don't earn a profit during a tax year, that effort will not save you any money.
+
+Click {H:Continue} to read about the offshore account."
+    ACCOUNTINGANDTAXES4     "You can buy {H:precious metals} to reduce your taxes and maybe even earn a profit by selling it when the price goes up. Just make sure to not place your precious metal stock in view of anyone but your staff members.
+
+The money you earn from selling precious metals goes into your {H:offshore account}, which cannot be used for your daily operations."
+    ACCOUNTINGANDTAXES5     "Your offshore account can be used for the action listed at the bottom of the window or funneled back into your company's main account. The actions also list the cost to your offshore account and how much {H:heat} the action will generate.
+
+Pay close attention to your {H:heat level}. When it hits 100% you will be audited and any illegal activity will be uncovered, and assets seized."
     ADDONS1                 "You can develop new add-ons at any time by opening {H:Your releases} window and selecting a product with add-ons available or by opening the detail window for a product and clicking one of its add-on tabs.
 
 Try starting development of an add-on now to continue the tutorial."
@@ -289,6 +306,7 @@ Specialization levels control which tasks your employee can complete. Remember t
 Clicking the {H:Random} button will pick random specialization levels for the points you have left.
 
 You can further educate and train your founder to gain skill and specializations in the game."
+    CUSTOMIZATIONADVANCED   "You can also skip picking creativity and specializations by disabling advanced mode and just letting the game pick it for you."
     NewCustomTraitTut2      "You can add up to 4 founders, but only 1 represents you and the rest will require a share of the company.
 
 You will have to pay dividends of any profit to other share holders, so each extra founder will reduce your profit margin."
@@ -425,10 +443,14 @@ Bring up the Contract window to get some work."
     HIRING2                 "Before you can hire anyone, you need to put out a search for employees. Start by choosing which role your new employee should be good at."
     HIRING4                 "Then you need to decide how much money you want to give your potential employee per month. It is very important that you make sure you have enough money to actually pay them or you'll go bankrupt very quickly.
 
-The quality of applicants will depend on how high you set the salary and your company benefits, among other things. Very high skilled employees only have a chance to appear in the highest salary bracket."
+The quality of applicants will depend on how high you set the salary and your company benefits, among other things. Very high skilled employees only have a chance to appear in the highest salary bracket.
+
+Note that higher skilled employees will expect a higher salary than low skilled employees that eventually become high skilled. You can use this fact to save money by hiring young and training them up."
     HIRING3                 "You can further filter your applicants by toggling any of the filter toggles.
 
-Note that each active filter will increase the cost and reduce the amount of applicants you get."
+Note that each active filter will increase the cost and reduce the amount of applicants you get.
+
+The hiring pool is limited and affected by how appealing your company is to potential employees. The hiring pool refreshes every month and can be boosted when other companies close down."
     HIRING5                 "You can save your filters if you want to use them again later.
 			
 Alternatively, you can look for any lead designers out of work currently.
@@ -577,9 +599,9 @@ To start off, you should cover any potential loss with {H:Contents insurance}. S
 The more furniture you have, the higher the premium will be.
 
 Close the insurance window when you're ready, and we'll cover how to best prevent burglaries."
-    OFFICEDANGERS3          "Burglaries will increase in scale and frequency as your company scales up. The simple and cheapest way to fight burglaries is to buy {H:Security cameras}. Security cameras will alert police whenever a burglar enters their cone of vision, to halt a burglary early. You should place them strategically near building entrances.
+    OFFICEDANGERS3          "Burglaries will increase in scale and frequency as your company scales up. Your employees will call the police whenever they witnes a burglary. Sadly, the Software Inc. Police Department is slow working and bureaucratic, so don't expect to get all of your stolen property back.
 			
-Sadly, the Software Inc. Police Department is slow working and bureaucratic, so don't expect to get any of your stolen property back. Instead you can try completely preventing burglaries by hiring {H:Security guards} in the {H:Staff window}. Security guards will patrol your building entrances or any rooms you assign them to, and scare off would-be burglars when they get too close.
+Instead you can try completely preventing burglaries by hiring {H:Security guards} in the {H:Staff window}. Security guards will patrol your building entrances or any rooms you assign them to and scare off would-be burglars when they get too close. You can also place security cameras strategically at building entrances and a surveillance desk, which allows one security guard to keep track of four places at once.
 
 You can hire multiple security guards to cover a 24-hour period and still skip time when only security guards are present.
 
